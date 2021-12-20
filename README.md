@@ -1,5 +1,5 @@
 # Serena Gandhi
-<img src="https://user-images.githubusercontent.com/60444726/146695203-12a1a539-c339-4723-9a3d-64ecc1a49c37.png" width = "100">
+<img src="https://user-images.githubusercontent.com/60444726/146695203-12a1a539-c339-4723-9a3d-64ecc1a49c37.png" width = "400">
 
 ### Hi there 👋
 
